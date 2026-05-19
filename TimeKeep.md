@@ -26,10 +26,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-| 5/11/26  |  8:15PM  |   IM   |  Prep                                      |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 5/11/26  | 08:15PM  |   IM   |  Prep                                      |   1HR       |
+| 5/12/26  | 12:45PM  |   MTG  |  Class                                     |   1HR 30M   |
+| 5/12/26  | 01:20PM  |   IM   |  Learned about how to use erlang           |   3HR       |
+| 5/14/26  | 12:00PM  |   MTG  |  Class                                     |   1HR 30M   |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
