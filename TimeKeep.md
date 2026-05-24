@@ -36,6 +36,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 5/21/26  | 12:00PM  |   IM   |  Work on finishing up final                |   1HR 30M   |
 | 5/21/26  | 12:45PM  |   MTG  |  Class                                     |   1HR 30M   |
 | 5/21/26  | 01:30PM  |   TP   |  Worked on organizing the files            |   1HR 30M   |
+| 5/23/26  | 10:00PM  |   IM   |  Finishing touches                         |   1HR       |
 
 _Note: Add more rows as needed._
 
@@ -43,7 +44,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |    07HR                  |
-|TP - Team Project              |    04HR                  |
-|MTG - Class Meetings           |    04HR 30MIN            |
-|**TOTAL**                      |    15HR 30MIN            |
+|IM - Individual Module         |    8HR                  |
+|TP - Team Project              |    4HR                  |
+|MTG - Class Meetings           |    4HR 30MIN            |
+|**TOTAL**                      |    16HR 30MIN            |
