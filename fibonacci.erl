@@ -1,5 +1,5 @@
 -module(fibonacci).
--export([fib/1]).
+-export([calc/1]).
 
 
 
