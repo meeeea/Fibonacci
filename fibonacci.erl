@@ -4,6 +4,6 @@
 
 
 calc(N) when N > 1 ->
-	calc(N - 1) ;
+	calc(N - 1) + calc(N - 2) ;
 
-calc(_) -> 0.
+calc(_) -> 1.
